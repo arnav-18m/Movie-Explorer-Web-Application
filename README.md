@@ -1,8 +1,17 @@
-# React + Vite
+# Movie Discovery Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based movie discovery platform that allows users to browse popular movies, search for movies by title, and save favorites using Local Storage.
 
-Currently, two official plugins are available:
+## Features
+- Search movies using TMDB API
+- Browse popular movies
+- Add/remove favorites
+- Persistent favorites using Local Storage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React.js
+- JavaScript
+- TMDB API
+- Context API
+- Local Storage
+- Vite
