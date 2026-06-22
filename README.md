@@ -5,9 +5,10 @@ A React-based movie discovery platform that allows users to browse popular movie
 ## Features
 - Search movies using TMDB API
 - Browse popular movies
-- Add/remove favorites
-- Persistent favorites using Local Storage
-
+- Add/remove favourites
+- View ratings and release dates
+- Responsive user interface
+  
 ## Tech Stack
 - React.js
 - JavaScript
